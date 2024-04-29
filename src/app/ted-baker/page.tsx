@@ -53,7 +53,7 @@ const images = [
       <div className=" mx-[4rem] rounded-2xl grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4 -mt-12">
         {images.map((imageUrl, index) => (
           <div key={index} className="relative" onClick={handleImageClick}>
-            <Image src={imageUrl} alt={`Image ${index + 1}`} width={300} height={200} className="object-cover cursor-pointer rounded-xl bg-black" />
+            <Image src={imageUrl} alt={`eye clinic bradford ${index + 1}`} width={300} height={200} className="object-cover cursor-pointer rounded-xl bg-black" />
           </div>
         ))}
         {showModal && <ImageViewerModal1 images={images} onClose={handleCloseModal} />}

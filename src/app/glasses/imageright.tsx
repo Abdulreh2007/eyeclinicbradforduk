@@ -13,7 +13,7 @@ const ImageRight: React.FC = () => {
         <div className="lg:w-1/2 p-4">
           <Image
             src={bg}
-            alt="Your Image"
+            alt="eye clinic bradford"
             className="w-full h-full rounded-xl"
             width={800} height={800}
           />

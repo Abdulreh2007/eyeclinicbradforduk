@@ -11,7 +11,7 @@ const page = () => {
          <div className=' uppercase text-center text-4xl text-white mx-2 rounded-es-2xl rounded-ee-2xl font-bold bg-black py-1 px-2 shadow-lg '> Children’s Eye Care </div> 
          <div className="flex flex-col md:flex-row items-center justify-center mx-auto max-w-6xl p-8">
       <div className="md:w-1/2">
-        <Image src={lence} alt="Your Image" className="w-full  rounded-lg shadow-lg" />
+        <Image src={lence} alt="eye clinic bradford" className="w-full  rounded-lg shadow-lg" />
       </div>
       <div className="md:w-1/2 md:ml-8">
         <h1 className="text-xl md:text-4xl font-bold mb-4 -mt-[rem]">

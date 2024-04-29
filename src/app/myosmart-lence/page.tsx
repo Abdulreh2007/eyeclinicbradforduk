@@ -8,7 +8,7 @@ const page = () => {
     <div className='overflow-hidden'>
         <div className=' uppercase text-center text-4xl text-white mx-2 rounded-es-2xl rounded-ee-2xl font-bold bg-black py-1 px-2 shadow-lg '> Miyosmart Lenses </div>
       <div className='w-full max-w-xs sm:max-w-md md:max-w-lg lg:max-w-xl xl:max-w-2xl mx-auto mt-6 flex justify-center '>
-      <Image src={myo} alt='myopia' 
+      <Image src={myo} alt='eye clinic bradford' 
       className='w-auto h-auto rounded-lg shadow-2xl transition duration-300 ease-in-out transform hover:scale-105  '
       width={800}
       height={800}

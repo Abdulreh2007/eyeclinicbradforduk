@@ -15,7 +15,7 @@ const page = () => {
     <div className="lg:max-w-lg lg:w-full md:w-1/2 w-5/6 mb-10 md:mb-0">
       <Image
         className="object-cover object-center rounded w-[35rem] h-[30rem]  -mt-6"
-        alt="hero"
+        alt="eye clinic bradford"
         src={child}
         width={500}
         height={500}
@@ -23,12 +23,12 @@ const page = () => {
     </div>
     <div className="lg:flex-grow md:w-1/2 lg:pl-8 md:pl-16 flex flex-col md:items-start md:text-left items-center text-center">
       <h1 className=" sm:text-4xl text-4xl mb-4 font-bold text-gray-900">
-      Get Your Child’s
+      Get Your Child's
         Eyes Tested
       </h1>
       <ul className="mb-8 leading-relaxed text-lg font-serif list-disc ">
         <li className='hover:text-black transition duration-300 ease-in-out transform hover:scale-95  ' >
-      You can’t always tell when there is a problem with a child’s vision, since they rarely complain about their sight but children often display behaviour that suggests there may be problems with their vision. They may rub their eyes regularly, blink a lot or hold objects close to their face. These are all signs that there may be a problem with the child’s vision.
+      You can't always tell when there is a problem with a child's vision, since they rarely complain about their sight but children often display behaviour that suggests there may be problems with their vision. They may rub their eyes regularly, blink a lot or hold objects close to their face. These are all signs that there may be a problem with the child's vision.
 
         </li>
         <li className='hover:text-black transition duration-300 ease-in-out transform hover:scale-95 ' >

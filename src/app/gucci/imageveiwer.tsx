@@ -24,7 +24,7 @@ const ImageViewerModal: React.FC<ImageViewerModalProps> = ({ images, onClose }) 
           Close
         </button>
         <div className="relative w-[23rem] h-[25rem]">
-          <Image src={images[currentIndex]} alt={`Image ${currentIndex + 1}`} layout="fill" objectFit="contain" className='bg-black' />
+          <Image src={images[currentIndex]} alt={`eye clinic bradford ${currentIndex + 1}`} layout="fill" objectFit="contain" className='bg-black' />
         </div>
         <div className="flex justify-between px-4  py-2">
           <button onClick={handlePrev} className="text-gray-700 hover:text-gray-900">&#8592; Prev</button>

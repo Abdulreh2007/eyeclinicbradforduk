@@ -19,7 +19,7 @@ const Brand = () => {
       <div className="p-4 lg:w-1/3  ">
       <Link href={"/gucci"}>
       
-        <Image className='rounded-xl transition duration-300 ease-in-out transform hover:scale-105 shadow-2xl'  priority src={gucci} alt='gucci'
+        <Image className='rounded-xl transition duration-300 ease-in-out transform hover:scale-105 shadow-2xl'  priority src={gucci} alt='eye clinic bradford gucci'
         />
         </Link>
         
@@ -29,7 +29,7 @@ const Brand = () => {
 
         <Link href={"Tomford"}>
 
-      <Image className='rounded-xl shadow-2xl transition duration-300 ease-in-out transform hover:scale-105' priority src={tom} alt='tom' />
+      <Image className='rounded-xl shadow-2xl transition duration-300 ease-in-out transform hover:scale-105' priority src={tom} alt='eye clinic bradford' />
         </Link>
         
       </div>
@@ -38,25 +38,25 @@ const Brand = () => {
       <div className="p-4 lg:w-1/3">
       <Link href={"/BOSS"}>
           
-      <Image className='rounded-xl shadow-2xl transition duration-300 ease-in-out transform hover:scale-105' priority src={boss} alt='jimmy' />
+      <Image className='rounded-xl shadow-2xl transition duration-300 ease-in-out transform hover:scale-105' priority src={boss} alt='eye clinic bradford' />
           </Link>
        
       </div>
       <div className="p-4 lg:w-1/3">
       <Link href={"/ted-baker"}>
           
-      <Image className='rounded-xl transition shadow-2xl duration-300 ease-in-out transform hover:scale-105' priority src={ted} alt='ted' />
+      <Image className='rounded-xl transition shadow-2xl duration-300 ease-in-out transform hover:scale-105' priority src={ted} alt='eye clinic bradford' />
           </Link>
        
       </div>
       <div className="p-4 lg:w-1/3">
       <Link href={"/saint-laurent"}>
-      <Image className='rounded-xl transition duration-300 ease-in-out shadow-2xl transform hover:scale-105' priority src={sany} alt='sany' />
+      <Image className='rounded-xl transition duration-300 ease-in-out shadow-2xl transform hover:scale-105' priority src={sany} alt='eye clinic bradford' />
       </Link>
       </div>
       <div className="p-4 lg:w-1/3">
       <Link href={"/jimmy-choo"}>
-      <Image className='shadow-2xl rounded-xl transition duration-300 ease-in-out transform hover:scale-105' priority src={jimmy} alt='boss' />
+      <Image className='shadow-2xl rounded-xl transition duration-300 ease-in-out transform hover:scale-105' priority src={jimmy} alt='eye clinic bradford' />
        
       </Link>
       </div>

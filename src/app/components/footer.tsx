@@ -17,7 +17,7 @@ const Footer = () => {
         <footer className="text-gray-600 body-font mt-11">
   <div className="container px-5 py-24 mx-3 flex md:items-center lg:items-start md:flex-row md:flex-nowrap flex-wrap flex-col">
     <div className="w-64 flex-shrink-0 md:mx-0 mx-auto text-center md:text-left">
-    <Image src={logo} alt='loog' width={100} height={100}/>
+    <Image src={logo} alt='eye clinic bradford' width={100} height={100}/>
       <p className="mt-2 text-sm  text-gray-500">
         <p className='-mx-8 sm:mx-2'>
        📋 738, Great Horton Road
@@ -101,7 +101,7 @@ const Footer = () => {
   <div className='mx-[30rem] -mt-2 flex justify-center gap-3 '>
   <div className=' text-xl '>
     <Link href={'#'}>
-  <Image src={facelogo} alt='facebook' className='w-6'/>
+  <Image src={facelogo} alt='eye clinic bradford' className='w-6'/>
   </Link>
   </div>
   <div className=' text-2xl text-gray-400 hover:text-gray-800'>

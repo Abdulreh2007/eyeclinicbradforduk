@@ -11,7 +11,7 @@ const Page = () => {
      <div className=' uppercase text-center text-4xl text-white mx-2 rounded-es-2xl rounded-ee-2xl font-bold bg-black py-1 px-2 shadow-lg '> eye test</div> 
      <div className="flex flex-col md:flex-row items-center md:items-start bg-white rounded-lg   overflow-hidden ">
       <div className="w-full md:w-1/2 p-7">
-        <Image className="object-cover w-full h-full rounded-xl" src={eyetest2} alt="Your Image" />
+        <Image className="object-cover w-full h-full rounded-xl" src={eyetest2} alt="eye clinic bradford" />
       </div>
       <div className="w-full md:w-1/2 p-8 h-auto">
         <h2 className="text-3xl font-bold text-gray-800 text-center  mb-4">TAKE AN EYE TEST</h2>

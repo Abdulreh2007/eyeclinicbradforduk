@@ -40,7 +40,7 @@ const images = [
             {/* <Nav /> */}
             </div>
             <div className="flex justify-center -mt-[1.5rem] ">
-                <Image src={logo} alt="logo" className=""/>
+                <Image src={logo} alt="eye clinic bradford" className=""/>
             </div>
       <div className=" mx-[4rem] rounded-2xl grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 p-4 -mt-11">
         {images.map((imageUrl, index) => (
